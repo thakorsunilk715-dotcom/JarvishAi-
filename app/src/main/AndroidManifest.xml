@@ -6,8 +6,7 @@
 
     <application
         android:allowBackup="false"
-        android:theme="@android:style/Theme.DeviceDefault.Light.DarkActionBar"
-        
+        android:theme="@android:style/Theme.DeviceDefault.Light.DarkActionBar">
         
         <activity
             android:name=".MainActivity"
